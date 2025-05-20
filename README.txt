@@ -5,9 +5,9 @@
                                                                   Sports League Optimization
 
 Group S – Team Members:
-   • Gustavo Veloso – 20240599
-   • Leonor Mira    – 20240658
-   • Martim Tavares – 20240508
+   • Gustavo Veloso  – 20240599
+   • Leonor Mira     – 20240658
+   • Martim Tavares  – 20240508
    • Santiago Taylor – 20240542
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
