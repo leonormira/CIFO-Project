@@ -19,10 +19,10 @@ Project Materials
    🔗 https://liveeduisegiunl-my.sharepoint.com/:x:/g/personal/imagessi_novaims_unl_pt/EaBE0t8JP7tArjZSAYvrBEYBccVjA9zeq1aPjztfGNiR_A?rtime=eabT9LyX3Ug
 
 2. Project Report  
-   The file **FALTA MODIFICAR** contains the complete written report of our project.
+   The file 'Report_GroupS' contains the complete written report of our project.
 
 3. Jupyter Notebook  
-   The file **Final_Notebook.ipynb** includes all the code, experiments, and analysis carried out.
+   The file 'Final_Notebook.ipynb' includes all the code, experiments, and analysis carried out.
 
 4. The folders results with the names were used in the grid search code to test differnt hyperparameters in order to obtain the best performamce.
 
